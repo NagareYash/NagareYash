@@ -9,6 +9,7 @@
   <a href="https://www.linkedin.com/in/nagareyash"><img src="https://img.shields.io/badge/LinkedIn-nagareyash-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:me@nagareyash.com"><img src="https://img.shields.io/badge/email-me@nagareyash.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://scholar.google.com/citations?user=9BWyEk8AAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-Yash_Nagare-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"></a>
+  <a href="https://orcid.org/0009-0003-1266-3709"><img src="https://img.shields.io/badge/ORCID-0009--0003--1266--3709-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"></a>
 </p>
 
 ---
@@ -17,7 +18,7 @@
 
 I'm a **cybersecurity engineer and researcher** working where **offensive security**, **industrial control systems (ICS/OT)**, and **threat intelligence** meet. Right now I'm an **Information Security Intern at Rocket** and an **MS Cybersecurity** candidate at **NYU Tandon** (4.0 GPA) in Brooklyn, NY.
 
-I got into security because I was curious how things broke long before I cared about fixing them — and that's still how I work: understand the break, then build the tooling that closes it. That has taken me from standing up **ICS Security Operations Centers** and turning messy **APT reports into machine-readable threat intel**, to a **deepfake-detection platform** backed by a **$17,000 research grant**. Along the way: **12 peer-reviewed publications**, **2 granted patents**, and a **2nd-place finish at CSAW OT 2025** (US/Canada).
+I got into security because I was curious how things broke long before I cared about fixing them and that's still how I work: understand the break, then build the tooling that closes it. That has taken me from standing up **ICS Security Operations Centers** and turning messy **APT reports into machine-readable threat intel**, to a **deepfake-detection platform** backed by a **$17,000 research grant**. Along the way: **12 peer-reviewed publications**, **2 granted patents**, and a **2nd-place finish at CSAW OT 2025** (US/Canada).
 
 My rule of thumb: build tools people actually use, not papers that sit on a shelf.
 
