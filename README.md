@@ -14,10 +14,13 @@
 ---
 
 MS Cybersecurity @ **NYU Tandon** (4.0) · Brooklyn, NY
+Currently **Information Security Intern @ Rocket**
 
-I break systems to build stronger ones. My work sits between **offensive security**, **industrial control systems**, and **threat intelligence** — from ICS SOCs and APT report parsers to deepfake detection backed by a **$17K research grant**.
+> *"I break systems to build stronger ones — I was curious how things broke long before I cared about fixing them."*
 
-**Portfolio → [nagareyash.com](https://nagareyash.com)** · projects, research, publications & patents
+My work sits between **offensive security**, **industrial control systems**, and **threat intelligence** — from ICS SOCs and APT-report parsers to deepfake detection backed by a **$17,000 research grant**. I care about tools people actually use, not papers that sit on a shelf.
+
+**Projects, research, publications & patents → [nagareyash.com](https://nagareyash.com)**
 
 ---
 
@@ -31,34 +34,89 @@ I break systems to build stronger ones. My work sits between **offensive securit
 
 ---
 
-### Featured projects
+### Experience
 
-| Project | What it does | Links |
-|---------|--------------|-------|
-| **UniSOC** | ICS/OT Security Operations Center — asset discovery, CVE checks, MITRE ATT&CK for ICS attack chains | [Portfolio](https://nagareyash.com/projects.html) |
-| **TIEF** | BERT-based threat intel extraction from APT reports → STIX 2.1 + MITRE ATT&CK (93.3% macro F1) | [GitHub](https://github.com/NagareYash/TIEF) · [Paper](https://www.mdpi.com/2624-800X/5/3/63) |
-| **TrustTrace** | Multi-modal deepfake & synthetic media detection platform | [trusttrace.net.in](https://trusttrace.net.in) |
-| **HackTheWay** | CTF training + bug bounty platform for orgs | [hacktheway.com](https://www.hacktheway.com) |
-| **PixelTrace** | Open-source image tampering detection via Error Level Analysis | [GitHub](https://github.com/NagareYash/PixelTrace) · [Paper](https://www.jetir.org/papers/JETIR2305G09.pdf) |
-
-More on **[nagareyash.com/projects](https://nagareyash.com/projects.html)**
+- **Information Security Intern** — Rocket *(2026 – present)*
+- **Course Assistant, Intro to C** — NYU Tandon
+- **Cybersecurity Researcher** — VJTI *(ICS infrastructure · SOC deployment)*
+- **Cybersecurity Researcher** — CyberPeace *(threat intel · honeypots)*
+- **Embedded Systems Developer** — Meshnet Electronics
 
 ---
 
-### Stack
+### Tech stack
+
+**Languages**
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/MITRE_ATT&CK-E62429?style=flat-square" alt="MITRE ATT&CK">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/Java-437291?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash">
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell">
 </p>
 
-**Focus areas:** offensive security · ICS/OT · SIEM/SOAR · threat intel · ML forensics · honeypots · embedded C
+**Offensive security & DFIR**
+
+<p>
+  <img src="https://img.shields.io/badge/Metasploit-2A0944?style=flat-square&logo=metasploit&logoColor=white" alt="Metasploit">
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" alt="Burp Suite">
+  <img src="https://img.shields.io/badge/Nmap-4682B4?style=flat-square" alt="Nmap">
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark">
+  <img src="https://img.shields.io/badge/Ghidra-FF6E00?style=flat-square" alt="Ghidra">
+  <img src="https://img.shields.io/badge/IDA_Pro-1B1B1B?style=flat-square" alt="IDA Pro">
+  <img src="https://img.shields.io/badge/Pwntools-111111?style=flat-square" alt="Pwntools">
+  <img src="https://img.shields.io/badge/Volatility-5C2D91?style=flat-square" alt="Volatility">
+  <img src="https://img.shields.io/badge/MITRE_Caldera-C8102E?style=flat-square" alt="MITRE Caldera">
+  <img src="https://img.shields.io/badge/Tenable-00417D?style=flat-square&logo=tenable&logoColor=white" alt="Tenable">
+</p>
+
+**ICS / OT**
+
+<p>
+  <img src="https://img.shields.io/badge/MITRE_ATT%26CK-E62429?style=flat-square" alt="MITRE ATT&CK">
+  <img src="https://img.shields.io/badge/STIX_2.0-2D9CDB?style=flat-square" alt="STIX 2.0">
+  <img src="https://img.shields.io/badge/Claroty-1A1A2E?style=flat-square" alt="Claroty">
+  <img src="https://img.shields.io/badge/Scapy-005571?style=flat-square" alt="Scapy">
+  <img src="https://img.shields.io/badge/IEC_61850-555555?style=flat-square" alt="IEC 61850">
+</p>
+
+**SIEM / SOC / detection**
+
+<p>
+  <img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white" alt="Splunk">
+  <img src="https://img.shields.io/badge/ELK_Stack-005571?style=flat-square&logo=elasticstack&logoColor=white" alt="ELK Stack">
+  <img src="https://img.shields.io/badge/Wazuh-3268A8?style=flat-square" alt="Wazuh">
+  <img src="https://img.shields.io/badge/Suricata-EE3124?style=flat-square" alt="Suricata">
+  <img src="https://img.shields.io/badge/Snort-EF60A3?style=flat-square" alt="Snort">
+  <img src="https://img.shields.io/badge/Zeek-4B7BB5?style=flat-square" alt="Zeek">
+</p>
+
+**Cloud & infrastructure**
+
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=FF9900" alt="AWS">
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=icloud&logoColor=white" alt="Azure">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/VMware_ESXi-607078?style=flat-square&logo=vmware&logoColor=white" alt="VMware ESXi">
+  <img src="https://img.shields.io/badge/Windows_AD-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Windows AD">
+  <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white" alt="NGINX">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+</p>
+
+**ML & data**
+
+<p>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV">
+  <img src="https://img.shields.io/badge/BERT_/_NLP-FFB300?style=flat-square" alt="BERT / NLP">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
+</p>
+
+**Certifications:** CEH · Google Cybersecurity Professional · Cisco Cybersecurity Essentials · CISA ICS (210W-03/04) · ISO/IEC 27001
+
+**Focus areas:** penetration testing · ICS/OT security · binary exploitation · reverse engineering · threat intelligence · SOC & incident response · ML forensics
 
 ---
 
